@@ -1,4 +1,8 @@
-Brew Beer Company (located in Dublin): You can order beer tailored to your own liking online and you can go in store and purchase their own original beer flavours or even brew your own beer and wine. The store and website has been running for 15 years. 
+# CA TWO
+---
+## Company Background
+Brew Beer Company (based in Dublin): You can order beer tailored to your own liking online and you can go in store and purchase their own original beer flavours or even brew your own beer. They have some employees working in Britain and the store and website has been running for 15 years. 
+ 
 IT Setup:
 They have two on-premise servers that carry out a combination of functions. One server is a database server used for storing data and it also acts as a web server responsible for running their online store. The second server is for e-mails and filing. They are located in a small space with good ventilation and cabling in their IT office. Their local employees and workers outside of Dublin or Ireland communicate and exchange files and e-mails using Microsoft Exchange in their server and Microsoft Office. They have a computer at their store till for in store transactions. 
 Recommendations:
