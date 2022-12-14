@@ -20,6 +20,6 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: secret
       MYSQL_DATABASE: todos
-       command: "echo ALTER USER 'root' IDENTIFIED WITH mysql_native:password BY "secret"; flush privileges;"|mysql
+       
 volumes:
   todo-mysql-data:
